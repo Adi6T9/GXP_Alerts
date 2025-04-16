@@ -2,19 +2,27 @@
   "alerts": [
     {
       "id": "1",
-      "message": "Special rates for air freight to USA! Limited time offer.",
-      "type": "info",
+      "title": "New Route Launch! 🚀",
+      "message": "Direct flights now available from India to USA with special introductory rates.",
+      "type": "ad",
       "isActive": true,
-      "link": "/services/air-freight",
-      "linkText": "Check rates"
+      "link": "/contact",
+      "linkText": "Book Now",
+      "imageUrl": "https://www.gxpresss.com/wp-content/uploads/2024/11/aerial-view-cargo-ship-cargo-container-harbor-1-scaled.jpg",
+      "imageAlt": "New Route Announcement",
+      "position": "center",
+      "width": "large"
     },
     {
       "id": "2",
-      "message": "⚠️ Service Update: Temporary delays in European routes",
-      "type": "warning",
-      "isActive": true,
-      "link": "/service-updates",
-      "linkText": "View details"
+      "title": "Holiday Schedule",
+      "message": "Check our modified operation hours during the upcoming holidays.",
+      "type": "info",
+      "isActive": false,
+      "link": "/holiday-schedule",
+      "linkText": "View Schedule",
+      "position": "top",
+      "width": "small"
     }
   ]
 }
