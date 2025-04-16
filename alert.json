@@ -6,9 +6,7 @@
       "type": "info",
       "isActive": true,
       "link": "/services/air-freight",
-      "linkText": "Check rates",
-      "startDate": "2024-03-01",
-      "endDate": "2024-05-31"
+      "linkText": "Check rates"
     },
     {
       "id": "2",
@@ -16,9 +14,7 @@
       "type": "warning",
       "isActive": true,
       "link": "/service-updates",
-      "linkText": "View details",
-      "startDate": "2024-03-01",
-      "endDate": "2024-05-31"
+      "linkText": "View details"
     }
   ]
 }
