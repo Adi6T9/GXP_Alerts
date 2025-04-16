@@ -1,0 +1,24 @@
+{
+  "alerts": [
+    {
+      "id": "1",
+      "message": "Special rates for air freight to USA! Limited time offer.",
+      "type": "info",
+      "isActive": true,
+      "link": "/services/air-freight",
+      "linkText": "Check rates",
+      "startDate": "2024-03-20",
+      "endDate": "2024-04-20"
+    },
+    {
+      "id": "2",
+      "message": "⚠️ Service Update: Temporary delays in European routes",
+      "type": "warning",
+      "isActive": true,
+      "link": "/service-updates",
+      "linkText": "View details",
+      "startDate": "2024-03-19",
+      "endDate": "2024-03-25"
+    }
+  ]
+}
